@@ -2,9 +2,9 @@
 
 CRUD básico em C#
 
-JÔNATHA MENDONÇA DOS SANTOS 534595
+JÔNATHA MENDONÇA DOS SANTOS
 
-NOTA DE LIBERAÇÃO: CRUD-EM-C SHARP-DEVMEDIA
+NOTA DE LIBERAÇÃO: CRUD-EM-C SHARP
 
 INTRODUÇÃO 
 Este documento provê uma visão geral da versão do aplicativo CRUD C# DEVMEDIA que está sendo liberada. 
